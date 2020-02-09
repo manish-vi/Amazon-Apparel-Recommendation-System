@@ -1,22 +1,18 @@
 # Amazon-Apparel-Recommendation-System
 
-<h1>1. Business Problem </h1>
+# Business Problem </h1>
 
-<h2> 1.1 Problem Description </h2>
+#### Problem Description
 
-<p>
 Build a recommendation engine which suggests similar products (apparel) to the given product (apparel) in any e-commerce websites.
-</p>
 
-<h2> 1.2 Problem Statement </h2>
-<p>
+#### Problem Statement
+
 Recommending similar apparel items to user. Its estimated that amazon's 35% revenue is generated using product recommendations.
-</p>
 
-<h2> 1.3 Sources </h2>
-<ul>
+#### Sources
 <li> https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews</li>
-</ul>
+
 
 # Getting Started
 Start by downloading the project and run "Amazon_Apparel_Recommendation.ipynb" file in ipython-notebook.
