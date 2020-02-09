@@ -11,7 +11,7 @@ Build a recommendation engine which suggests similar products (apparel) to the g
 Recommending similar apparel items to user. Its estimated that amazon's 35% revenue is generated using product recommendations.
 
 #### Sources
-<li> https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews</li>
+ https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 
 # Getting Started
