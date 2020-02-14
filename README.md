@@ -20,8 +20,8 @@ Start by downloading the project and run "Amazon_Apparel_Recommendation.ipynb" f
 # Prerequisites
 You need to have installed following softwares and libraries before running this project.
 
- Python 3: https://www.python.org/downloads/
- Anaconda: https://www.anaconda.com/download/
+ - Python 3: https://www.python.org/downloads/
+ - Anaconda: https://www.anaconda.com/download/
 
 # Libraries
 * __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
